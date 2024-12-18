@@ -55,6 +55,6 @@
   "dependencies": {
     "concat-stream": "^2.0.0",
     "promise-retry": "^2.0.1",
-    "ssh2": "^1.16.0"
+    "ssh2": "git+https://github.com/fundmarket/ssh2.git#5a1bd7cf3391f5afd2b59c4bb7e913a5a874fa47"
   }
 }
